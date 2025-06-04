@@ -134,6 +134,7 @@ hr {
     height: 250px; /* Altura fixa para as imagens dos cards menores */
     object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
     display: block;
+    align-items: center;
 }
 
 .article-card .article-content {
